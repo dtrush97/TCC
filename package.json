@@ -1,0 +1,8 @@
+{
+"name":"timed bot",
+"version":"1.0.0",
+"description":"create/delete channels on timer",
+"main":"bot.js",
+"author":"dtrush97",
+"dependencies":{}
+}
